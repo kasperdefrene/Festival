@@ -1,4 +1,4 @@
-dateModified: 1692179370
+dateModified: 1692190303
 email:
   fromEmail: kasper.de.frene@student.howest.be
   fromName: ravewerchter
@@ -15,12 +15,17 @@ meta:
   __names__:
     1bfd4192-2ee2-477a-a25b-ce9e9f306159: Home # Home
     3d487426-be91-48c0-96b8-a244549b49cc: Photos # Photos
+    21b4bc69-9791-412f-b97a-a2b725c8281d: LineupOverview # LineupOverview
     38ce34bb-80c2-4f97-b8a1-ac5c82eabcad: Default # Default
     40cef4c3-2f9b-4d6e-92e4-4aa63e8d1442: Lineup # Lineup
     877a4d63-4b39-46e9-942a-c7f894a5f036: Images # Images
     8021a5ce-2610-40f5-9d0e-319af3417d85: Time # Time
+    90321c69-b7fb-4bc9-8c4f-152572a0cf1a: TicketSoorten # TicketSoorten
+    a3ba8469-740e-400d-8614-4d4b3772ba5c: Tickets # Tickets
     a5e44212-dc23-4c39-aae7-ef41c764aa62: Common # Common
     a76d7462-821f-40b8-840b-a89d2a341668: ravewerchter # ravewerchter
+    b67be084-e7f2-4232-85c9-e75fabdcde91: LineupOverview # LineupOverview
+    b9497bef-5b53-42bb-b55b-faa13035f021: Tickets # Tickets
     bbb2a9ae-799a-4337-9985-dcba397051be: Stage # Stage
     bf41671e-028b-440c-a34e-96a455603b4a: Home # Home
     c2e626aa-410b-457b-a0a3-7c61346893bb: ravewerchter # ravewerchter
