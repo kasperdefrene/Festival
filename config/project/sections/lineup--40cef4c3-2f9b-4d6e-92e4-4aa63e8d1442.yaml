@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: lineup
+name: Lineup
+propagationMethod: all
+siteSettings:
+  c2e626aa-410b-457b-a0a3-7c61346893bb: # ravewerchter
+    enabledByDefault: true
+    hasUrls: true
+    template: lineup/_entry
+    uriFormat: 'lineup/{slug}'
+type: channel

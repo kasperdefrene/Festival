@@ -1,0 +1,79 @@
+fieldLayouts:
+  aa72d983-cc84-4291-994b-982d0402ad24:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: d475b98a-2950-4adf-8933-1ff7be4a17be
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: bbb2a9ae-799a-4337-9985-dcba397051be # Stage
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 52ee10f2-892f-4969-aec1-0f44b3e98739
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 8021a5ce-2610-40f5-9d0e-319af3417d85 # Time
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: c9124882-04f4-4c06-a01e-5a750208286d
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 877a4d63-4b39-46e9-942a-c7f894a5f036 # Images
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: d1002664-75d1-4ab2-a0df-74400db5c03e
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 39f9fd5d-d632-4f74-b6cc-7cec5a51bc8a
+        userCondition: null
+handle: default
+hasTitleField: true
+name: Default
+section: 40cef4c3-2f9b-4d6e-92e4-4aa63e8d1442 # Lineup
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

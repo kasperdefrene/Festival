@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: home
+name: Home
+propagationMethod: all
+siteSettings:
+  c2e626aa-410b-457b-a0a3-7c61346893bb: # ravewerchter
+    enabledByDefault: true
+    hasUrls: true
+    template: _/pages/home.twig
+    uriFormat: __home__
+type: single

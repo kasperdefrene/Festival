@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: ravewerchter
+primary: true
+siteGroup: a76d7462-821f-40b8-840b-a89d2a341668 # ravewerchter
+sortOrder: 1
