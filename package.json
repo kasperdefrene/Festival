@@ -21,6 +21,7 @@
     "postcss": "^8.4.25",
     "rollup": "^3.26.2",
     "source-map-js": "^1.0.2",
+    "terser": "^5.19.2",
     "vite-plugin-restart": "^0.3.1"
   },
   "description": ""
