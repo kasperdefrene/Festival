@@ -1,0 +1,19 @@
+columnSuffix: eyswundm
+contentColumnType: text
+fieldGroup: a5e44212-dc23-4c39-aae7-ef41c764aa62 # Common
+handle: day
+instructions: null
+name: Day
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

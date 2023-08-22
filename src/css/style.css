@@ -1,5 +1,7 @@
-@import "reset.css";
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+@import "reset.css";
+@import "detail.css";
+
 
 
 :root{
@@ -31,7 +33,6 @@ body{
 
 .header__background{
     width: 100%;
-    webkit-filter: grayscale(100%);
     filter: grayscale(100%);
     grid-row: 1;
     grid-column: 1;
@@ -122,7 +123,7 @@ button:hover::after {
 
 
 
-.body__lineup, .body__detail{
+body{
     background-image: url("../images/gradient.png");
     background-attachment: fixed;
     background-size: cover;

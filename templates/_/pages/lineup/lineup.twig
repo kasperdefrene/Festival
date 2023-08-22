@@ -1,0 +1,28 @@
+{% extends "_/layouts/base.twig" %}
+{% block content %}
+<h1 class="lineup__title">Line Up</h1>
+        <div class="dropdown">
+            <select name="stages" class="stages__dropdown">
+            <option value="acid">Acid Stage</option>
+            <option value="hard">Hard Stage</option>
+            <option value="melodic">Melodic Stage</option>
+            </select>
+        </div>
+
+        <div class="lineup__container">
+
+    {% set lineupArtists = craft.entries.section('lineup') %}
+    {% for artist in lineupArtists %}
+        {% set artistImage = artist.images.one() %}
+            <a href="{{artist.url}}">
+                <div class="lineup__item">
+                    <img class="artist__image" src="{{artistImage.url}}" alt="trym">
+                    <h2 class="artist__name">{{artist.title}}</h2>
+                    <p class="artist__time">{{artist.time}}</p>
+                    <p class="artist__stage">{{artist.stage}}</p>
+                    <p>{{artist.day}}</p>
+                </div>
+            </a>
+    {% endfor %}
+        </div>
+{% endblock %}
