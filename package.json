@@ -14,7 +14,7 @@
     "vite": "^4.4.9"
   },
   "dependencies": {
-    "@vitejs/plugin-legacy": "^4.1.1",
+    "@vitejs/plugin-legacy": "^3.0.1",
     "esbuild": "^0.18.12",
     "nanoid": "^3.3.6",
     "picocolors": "^1.0.0",
@@ -22,7 +22,15 @@
     "rollup": "^3.26.2",
     "source-map-js": "^1.0.2",
     "terser": "^5.19.2",
-    "vite-plugin-restart": "^0.3.1"
+    "vite-plugin-restart": "^0.2.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasperdefrene/Festival.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kasperdefrene/Festival/issues"
+  },
+  "homepage": "https://github.com/kasperdefrene/Festival#readme",
   "description": ""
 }
